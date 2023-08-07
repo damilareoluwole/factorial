@@ -1,0 +1,18 @@
+{
+    "name": "damilare/factorial-calculator",
+    "type": "library",
+    "description": "A simple package to calculate factorials.",
+    "keywords": ["laravel", "factorial", "calculator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damilare Oluwole",
+            "email": "oluoluwadamilare@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FactorialCalculator\\": "src/"
+        }
+    }
+}
