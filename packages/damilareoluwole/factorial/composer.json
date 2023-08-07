@@ -1,0 +1,15 @@
+{
+    "name": "damilareoluwole/factorial",
+    "description": "A simple package to calculate factorials",
+    "autoload": {
+        "psr-4": {
+            "Damilareoluwole\\Factorial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damilare Oluwole"
+        }
+    ],
+    "require": {}
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace FactorialCalculator;
+namespace Damilareoluwole\Factorial;
 
 class FactorialCalculator
 {
